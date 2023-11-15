@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Erhan25
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python from udemy.com
+- 🌱 I’m currently learning SQL from udemy.com
 - 📫 How to reach me ...
 
 <!---
